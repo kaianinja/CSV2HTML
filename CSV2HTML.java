@@ -2,7 +2,6 @@
 //                             Assignment 3
 //  Written by Cleopatr-Aliak Manoukian 40211001 & William Nazarian 40213100
 //----------------------------------------------------------------------------
-
 package CSV2HTML;
 import java.util.Scanner;
 import java.io.*;
